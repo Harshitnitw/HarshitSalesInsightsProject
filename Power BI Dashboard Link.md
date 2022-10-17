@@ -6,4 +6,4 @@ Download the .pbix file created by Harshit Kedia and open it in Power BI desktop
 
 Some background information:
 
-Our store chain FirstChoice' sales director is unable to get proper information about the performance of sales of various zones, the associate zonal sales directors of each are unable to convey the complete picture of the sales insights to the chief director as it is difficult to comprehend tabular data in a short time, so we designed interactive visualisations of the same data saved as sql and csv files after proper data cleaning and analysis so that the company's sales director can get useful insights quickly and effortlessly.
+Our store chain FirstChoice' sales director was unable to get proper information about the performance of sales of various zones because it is difficult to comprehend tabular data in a short time, so we designed interactive visualisations of the csv and  sql  tabular data after proper data cleaning and analysis so that the company's sales director can get useful insights quickly and effortlessly
